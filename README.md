@@ -24,7 +24,7 @@ A three-part honeycomb dock, that uses the tapchanger screw hook docking mechani
 
 ### [Umbilical Backplate](umbilical-backplate/)
 
-![Umbilical Backplate Assembly CAD](../images/umbilical-backplate-assembly-cad.png)
+![Umbilical Backplate Assembly CAD](images/umbilical-backplate-assembly-cad.png)
 
 A backplate as the single disconnect point for all six toolhead umbilicals. CAN bus cables connect via GX12-4 jacks and filament guide tubes via ECAS04 quick-connect collets, providing a straight low-friction filament path and quick disconnect capabilities for maintenance.
 
