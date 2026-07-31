@@ -1,4 +1,4 @@
-# Voron Stealthchanger CMYK Custom Toolchanger
+# Voron Stealthchanger CMYK
 
 ![Voron Stealthchanger CMYK](images/voron24-stealchanger-cmyk.png)
 
