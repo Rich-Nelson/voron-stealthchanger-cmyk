@@ -2,7 +2,7 @@
 
 ![Voron Stealthchanger CMYK](images/voron24-stealchanger-cmyk.png)
 
-A 6-toolhead multi-material 3D printer built on a [Voron 2.4](https://github.com/VoronDesign/Voron-2) using the [StealthChanger](https://github.com/DraftShift/StealthChanger) system. The build prioritizes performance, maintainability, auto calibration, and aesthetics, leaning into a CMYK color palette with Cyan, Magenta, Yellow, Black, White, and Gray tool heads.
+A 6-toolhead multi-material 3D printer built on a [Voron 2.4](https://github.com/VoronDesign/Voron-2) using the [StealthChanger](https://github.com/DraftShift/StealthChanger) system. The build prioritizes performance, maintainability, auto calibration, and aesthetics. The CMYK in the name reffered to my printer color scheme. It's a nod to the subtractive primary colors used by 2D printers and to the capabilities of a multi tool 3D printer especially with slicer advancement like full spectrum color.
 
 Each tool head uses a Dragon Burner toolhead with a Sharkpa Mini Extruder and TZ 2.0 V6 hotend, chosen for their combination of print quality and cost-effectiveness. The entire build is made from 3D printed parts and off-the-shelf hardware.
 
@@ -59,5 +59,11 @@ A custom cowl for the [Dragon Burner](https://github.com/chirpy2605/voron/tree/m
 ![Nozzle Brush Mount](images/nozzle-brush-mount-cad.png)
 
 Mounts a silicone brush and a Sexball probe to a 2020 extrusion. The brush automatically cleans the nozzle during docking; the probe runs automatic XYZ nozzle offset calibration across all six tool heads with a single button press.
+
+---
+
+### [Toolchange Tuning](toolchange-tuning/)
+
+Tuned motion parameters and dock path waypoints to reduce toolchange time. Covers changes to `printer.cfg` and StealthChanger macro configs, including a trimmed 4-waypoint dock path that removes the high-Z ramp-in from the default.
 
 
