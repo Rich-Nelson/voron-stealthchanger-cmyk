@@ -1,8 +1,8 @@
 # Voron Stealthchanger CMYK
 
-![Voron Stealthchanger CMYK](images/voron24-stealchanger-cmyk.png)
+[![Voron Stealthchanger CMYK — Watch on YouTube](https://img.youtube.com/vi/wOfLphvfhsM/maxresdefault.jpg)](https://www.youtube.com/watch?v=wOfLphvfhsM)
 
-A 6-toolhead multi-material 3D printer built on a [Voron 2.4](https://github.com/VoronDesign/Voron-2) using the [StealthChanger](https://github.com/DraftShift/StealthChanger) system. The build prioritizes performance, maintainability, auto calibration, and aesthetics. The CMYK in the name reffered to my printer color scheme. It's a nod to the subtractive primary colors used by 2D printers and to the capabilities of a multi tool 3D printer especially with slicer advancement like full spectrum color.
+A 6-toolhead multi-material 3D printer built on a [Voron 2.4](https://github.com/VoronDesign/Voron-2) using the [StealthChanger](https://github.com/DraftShift/StealthChanger) toolchanging system, and the [Tapchanger docking mechanism](https://github.com/viesturz/tapchanger). The build prioritizes performance, maintainability, auto calibration, and aesthetics. The CMYK in the name reffered to my printer color scheme. It's a nod to the subtractive primary colors used by 2D printers and to the capabilities of a multi tool 3D printer especially with slicer advancement like full spectrum color.
 
 Each tool head uses a Dragon Burner toolhead with a Sharkpa Mini Extruder and TZ 2.0 V6 hotend, chosen for their combination of print quality and cost-effectiveness. The entire build is made from 3D printed parts and off-the-shelf hardware.
 
