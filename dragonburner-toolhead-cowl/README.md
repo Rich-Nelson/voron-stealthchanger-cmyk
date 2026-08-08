@@ -19,8 +19,13 @@ Six of these toolheads are used across the printer, each printed in its correspo
 
 ### Hardware
 
-| Part | Qty |
-|------|-----|
-| 35mm M3 Socket Head Cap Screw | 2 |
+| Part | Qty | Cost | Source | Note |
+|------|-----|------|--------|------|
+| 35mm M3 Socket Head Cap Screw | 2 | $2.25 | [AliExpress](https://s.click.aliexpress.com/e/_c3tmFYGL) | Comes in quantities of 10 |
+| TZ V6 2.0 Hotend | 1 | $17.87 | [AliExpress](https://s.click.aliexpress.com/e/_c3Mq5ohd) | |
+| Moons Nema14 Motor | 1 | $19.84 | [AliExpress](https://s.click.aliexpress.com/e/_c3PY8IAP) | |
+| BIGTREETECH EBB36 CANBus Toolhead Board V1.2 | 1 | $15.39 | [AliExpress](https://s.click.aliexpress.com/e/_c3MC48Xt) | |
+| Voron Tap Probe Kit | 1 | $9.19 | [AliExpress](https://s.click.aliexpress.com/e/_c3SsvTCX) | |
+| Sherpa Mini Extruder Parts Kit | 1 | $3.38 | [AliExpress](https://s.click.aliexpress.com/e/_c3Y8yjdt) | On the kit I received I had to grind down some parts of the large gear/shaft component for clearance, YMMV. |
 
-> The StealthChanger DragonBurner backplate is from the [StealthChanger project](https://github.com/VoronDesign/VoronUsers). For the remainder of the toolhead build (extruder, hotend, PCB, fans, and remaining hardware), refer to the upstream [Dragon Burner project](https://github.com/chirpy2605/voron-user-mods/tree/main/Universal/DragonBurner).
+> The StealthChanger DragonBurner backplate is from the [StealthChanger project](https://stealthchanger.com/hardware/guides/backplates/4_dragonburner/#printed-bom). For the remainder of the toolhead build (additional printed components and hardware), refer to the upstream [Dragon Burner project](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner).
