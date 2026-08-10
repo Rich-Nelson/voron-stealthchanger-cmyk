@@ -10,6 +10,17 @@ This repo documents all of the custom and modified components.
 
 ![Voron Stealthchanger CMYK](images/voron24-stealchanger-cmyk.png)
 
+## Filaments used in this build
+
+| Color | Filament |
+|-------|----------|
+| Cyan | Polymaker ASA Pop Blue |
+| Magenta | MatterHackers Magenta ABS |
+| Yellow | MatterHackers Yellow ABS |
+| White | PolyLite ABS White |
+| Gray | PolyLite ASA Gray |
+| Black | PolyLite ASA Black |
+
 ---
 
 ## Components
@@ -62,17 +73,17 @@ Mounts a silicone brush and a Sexball probe to a 2020 extrusion. The brush autom
 
 ---
 
-### [Toolchange Tuning](toolchange-tuning/)
-
-Tuned motion parameters and dock path waypoints to reduce toolchange time. Covers changes to `printer.cfg` and StealthChanger macro configs, including a trimmed 4-waypoint dock path that removes the high-Z ramp-in from the default.
-
----
-
 ### [CAN Distribution Board Mount](can-distribution-board-mount/)
 
 ![CAN Distribution Board Mount](images/can-distribution-board-mount.png)
 
 A mount/enclosure for the FYSETC CAN Bus Distribution Board for StealthChanger, giving each of the six toolboards its own switched power channel off the shared CAN bus.
+
+---
+
+### [Toolchange Tuning](toolchange-tuning/)
+
+Tuned motion parameters and dock path waypoints to reduce toolchange time. Covers changes to `printer.cfg` and StealthChanger macro configs, including a trimmed 4-waypoint dock path that removes the high-Z ramp-in from the default.
 
 ---
 
@@ -163,17 +174,6 @@ All parts are printed in ABS or ASA (needed for heat resistance near the toolhea
 | 6 unique colors, one per toolhead | up to 6 | ~$120 |
 
 Most vendors only sell full 1kg spools, so unique-per-toolhead colors mean buying up to 6 spools even though each only uses a fraction - the ~$20 base price above assumes you're fine consolidating colors.
-
-**Filaments used in this build**:
-
-| Color | Filament |
-|-------|----------|
-| Cyan | Polymaker ASA Pop Blue |
-| Magenta | MatterHackers Magenta ABS |
-| Yellow | MatterHackers Yellow ABS |
-| White | PolyLite ABS White |
-| Gray | PolyLite ASA Gray |
-| Black | PolyLite ASA Black |
 
 You can reference [BOM.csv](BOM.csv) and the individual component READMEs for full parts lists and source links, and swap in your own pricing for anything marked as a rough estimate or covered by the misc hardware estimate above.
 
