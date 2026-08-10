@@ -15,7 +15,7 @@ nozzle-brush-mount,print,nozzle-brush-mount-top.STL,1,,,
 nozzle-brush-mount,buy,Silicone Nozzle Brush (for Bambu Lab A1/A1 MINI),1,,,
 nozzle-brush-mount,buy,20mm M3 Socket Head Cap Screw,1,,,
 nozzle-brush-mount,buy,M3 2020 Roll Nut,1,,,
-nozzle-brush-mount,buy,Sexball Probe Assembly,1,,,
+nozzle-brush-mount,reference,Sexball Probe Assembly,1,https://github.com/DraftShift/StealthChanger/wiki/Bill-of-Materials#sexball-probe,,Upstream project - see project for parts and sourcing
 spool-holder,print,spool-holder-roller-end.STL,2,,,
 spool-holder,print,spool-holder-roller-divider.STL,5,,,
 spool-holder,print,spool-holder-tube-guide.STL,6,,,

@@ -23,8 +23,16 @@ A two-piece mount that attaches to the 2020 extrusion frame and holds a silicone
 
 ### Hardware
 
-| Part | Qty |
-|------|-----|
-| Silicone Nozzle Brush (for Bambu Lab A1/A1 MINI) | 1 |
-| 20mm M3 Socket Head Cap Screw | 1 |
-| M3 2020 Roll Nut | 1 |
+| Part | Qty | Note |
+|------|-----|------|
+| Silicone Nozzle Brush (for Bambu Lab A1/A1 MINI) | 1 | |
+| 20mm M3 Socket Head Cap Screw | 1 | |
+| M3 2020 Roll Nut | 1 | |
+
+### Related Projects
+
+The Sexball probe is mounted by this bracket but is not part of this repo:
+
+| Part | Source | Note |
+|------|--------|------|
+| Sexball Probe Assembly | [Sexball BOM](https://github.com/DraftShift/StealthChanger/wiki/Bill-of-Materials#sexball-probe) | See project for parts and sourcing |
