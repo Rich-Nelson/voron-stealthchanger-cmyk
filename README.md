@@ -46,7 +46,7 @@ A compact, adjustable spool holder sized to fit within the width of the 300mm Vo
 
 ---
 
-### [Dragon Burner Toolhead](dragonburner-toolhead/)
+### [Dragon Burner Toolhead](dragon-burner-toolhead/)
 
 ![Dragon Burner Toolhead Assembly](images/dragon-burner-toolhead-assembly.png)
 
