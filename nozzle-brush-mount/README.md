@@ -23,11 +23,11 @@ A two-piece mount that attaches to the 2020 extrusion frame and holds a silicone
 
 ### Hardware
 
-| Part | Qty | Note |
-|------|-----|------|
-| Silicone Nozzle Brush (for Bambu Lab A1/A1 MINI) | 1 | |
-| 20mm M3 Socket Head Cap Screw | 1 | |
-| M3 2020 Roll Nut | 1 | |
+| Part | Qty | Unit Cost | Total Cost | Note |
+|------|-----|-----------|------------|------|
+| Silicone Nozzle Brush (for Bambu Lab A1/A1 MINI) | 1 | | | Covered by overall misc hardware estimate, see main README |
+| 20mm M3 Socket Head Cap Screw | 1 | | | Covered by overall misc hardware estimate, see main README |
+| M3 2020 Roll Nut | 1 | | | Covered by overall misc hardware estimate, see main README |
 
 ### Related Projects
 
@@ -36,3 +36,11 @@ The Sexball probe is mounted by this bracket but is not part of this repo:
 | Part | Source | Note |
 |------|--------|------|
 | Sexball Probe Assembly | [Sexball BOM](https://github.com/DraftShift/StealthChanger/wiki/Bill-of-Materials#sexball-probe) | See project for parts and sourcing |
+
+#### Sexball Probe Parts (as sourced for this build)
+
+| Part | Qty | Unit Cost | Total Cost | Source | Note |
+|------|-----|-----------|------------|--------|------|
+| Mellow Hartk Sexbolt Z Limit Endstop | 1 | $10.90 | $10.90 | [AliExpress](https://s.click.aliexpress.com/e/_c2vVlF4R) | |
+| M5 30mm Stainless Steel Outside Thread Solid Dowel Pin | 5 | $0.63 | $3.14 | [AliExpress](https://s.click.aliexpress.com/e/_c3g0o8ox) | Pack of 5 |
+| 12.7D M5 Stainless Steel Drilling Balls, Female Thread | 1 | $6.64 | $6.64 | [AliExpress](https://s.click.aliexpress.com/e/_c2wXXZR9) | |
