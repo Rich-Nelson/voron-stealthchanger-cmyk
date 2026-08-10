@@ -23,13 +23,13 @@ The dock was originally designd to use a 10mm acrylic panel as the plate, but it
 
 ### Printed Parts
 
-| Part | Qty | Note |
-|------|-----|------|
-| toolhead-dock-base.STL | 1 | |
-| toolhead-dock-plate.STL | 1 | For Honey comb effect, with 0.4mm nozzle, print with 0 tops an dbottom layers|
-| toolhead-dock-bracket.STL | 1 | |
-| toolhead-dock-brush-holder.STL | 1 | |
-| toolhead-dock-nozzle-pad-clip.STL | 1 | |
+| Part | Qty |
+|------|-----|
+| toolhead-dock-base.STL | 1 |
+| toolhead-dock-plate.STL | 1 |
+| toolhead-dock-bracket.STL | 1 |
+| toolhead-dock-brush-holder.STL | 1 |
+| toolhead-dock-nozzle-pad-clip.STL | 1 |
 
 ### Hardware
 
