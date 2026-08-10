@@ -8,23 +8,6 @@ Each tool head uses a Dragon Burner toolhead with a Sharkpa Mini Extruder and TZ
 
 This repo documents all of the custom and modified components.
 
-## Cost Estimate Guide
-
-A common question is: **"How much does this build cost?"** It can be tricky to answer since it depends heavily on your base printer and which components you choose.
-
-To help estimate costs, it's best to break the project down into three high-level categories:
-
-1. **Base Printer Cost**: The cost of your Voron 2.4 (or similar) printer and any fundamental upgrades needed to get it running.
-2. **Base Toolchanger Cost**: The shared components needed to convert the printer, such as the StealthChanger motion components, umbilical backplate, nozzle brush mount, calibration switches (Sexball probe), and any mainboard upgrades to support multiple CAN toolboards.
-3. **Multiplier Costs (Per Toolhead)**: The cost of a fully functional toolhead plus its dock and umbilical line. Multiply this by the number of tools you plan to run (e.g., x6 for this CMYK build). This includes:
-   - Toolhead components (hotend, extruder kit, stepper motor, toolboard, probe kit, fans, hardware).
-   - Toolhead Dock (printed parts and hardware).
-   - Umbilical assembly (umbilical brackets, CAN cable, PTFE tube, connectors).
-
-*(Optional Add-ons)*: Calculate separately items like the custom spool holder, dryboxes, or an enclosure.
-
-You can reference the [BOM.csv](BOM.csv) and the individual component READMEs (such as the [Dragon Burner Toolhead hardware table](dragonburner-toolhead-cowl/README.md#hardware)) for specific pricing and source links as a starting point.
-
 ![Voron Stealthchanger CMYK](images/voron24-stealchanger-cmyk.png)
 
 ---
@@ -63,9 +46,9 @@ A compact, adjustable spool holder sized to fit within the width of the 300mm Vo
 
 ---
 
-### [Dragon Burner Toolhead Cowl](dragonburner-toolhead/)
+### [Dragon Burner Toolhead](dragonburner-toolhead/)
 
-![Dragon Burner Toolhead Assembly](dragon-burner-toolhead-assembly.png)
+![Dragon Burner Toolhead Assembly](images/dragon-burner-toolhead-assembly.png)
 
 A custom cowl for the [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) toolhead to dock configured with a Sharkpa Mini Extruder and TZ 2.0 V6 hotend. Produces good print quality while remaining budget-friendly.
 

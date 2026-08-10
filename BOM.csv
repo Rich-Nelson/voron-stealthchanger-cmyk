@@ -48,19 +48,19 @@ umbilical-assembly,buy,GX12-4 Plug,1,,,
 umbilical-assembly,buy,2x2 Microfit Connector,1,,,
 umbilical-assembly,buy,.3mmx3mm flat coil spring (70mm),1,,,
 umbilical-assembly,buy,.3mmx3mm flat coil spring (100mm),1,,,
-dragonburner-toolhead-cowl,print,dragonburner-cowl.STL,1,,,
-dragonburner-toolhead-cowl,print,ebb36-strain-relief-cover.STL,1,,,
-dragonburner-toolhead-cowl,buy,M2 12mm Standoff (Male-Female),2,,,
-dragonburner-toolhead-cowl,buy,M3 18mm Standoff (Female-Female),2,,,
-dragonburner-toolhead-cowl,buy,M3 Heatset Insert 5mm D x 4mm L,1,,,Same insert used elsewhere in this project
-dragonburner-toolhead-cowl,buy,M3 20mm Button Head Cap Screw,2,,,
-dragonburner-toolhead-cowl,buy,M3 8mm Socket Head Cap Screw,2,,,
-dragonburner-toolhead-cowl,buy,Velcro or Zip Tie,1,,,Secures the strain relief connection
-dragonburner-toolhead-cowl,buy,35mm M3 Socket Head Cap Screws,2,https://s.click.aliexpress.com/e/_c3tmFYGL,$2.25,Comes in quantities of 10
-dragonburner-toolhead-cowl,buy,TZ V6 2.0 Hotend,1,https://s.click.aliexpress.com/e/_c3Mq5ohd,17.87,
-dragonburner-toolhead-cowl,buy,Moons Nema14 Motor,1,https://s.click.aliexpress.com/e/_c3PY8IAP,19.84,
-dragonburner-toolhead-cowl,buy,BIGTREETECH EBB36 CANBus Toolhad Board V1.2,1,https://s.click.aliexpress.com/e/_c3MC48Xt,15.39,
-dragonburner-toolhead-cowl,buy,Voron Tap Probe Kit,1,https://s.click.aliexpress.com/e/_c3SsvTCX,9.19,
-dragonburner-toolhead-cowl,buy,Sherpa Mini Extruder Parts Kit,1,https://s.click.aliexpress.com/e/_c3Y8yjdt,3.38,"On the kit I received I had to grind down some parts of the large gear/shaft component for clerance, YMMV."
-dragonburner-toolhead-cowl,print/buy/assemble,Rest of the Dragon Burner Toolhead,1,,,
-dragonburner-toolhead-cowl,print,Steathchanger Dragonburner Backplate,1,,,
+dragon-burner-toolhead,reference,Dragon Burner Toolhead (chirpy2605),1,https://github.com/chirpy2605/voron-user-mods/tree/main/Universal/DragonBurner,,Upstream project - base toolhead body, printed parts, and hardware
+dragon-burner-toolhead,reference,StealthChanger DragonBurner Backplate,1,https://stealthchanger.com/hardware/guides/backplates/4_dragonburner/#printed-bom,,Upstream project - printed backplate mounting to the StealthChanger toolchanger
+dragon-burner-toolhead,buy,TZ V6 2.0 Hotend,1,https://s.click.aliexpress.com/e/_c3Mq5ohd,17.87,
+dragon-burner-toolhead,buy,Moons Nema14 Motor,1,https://s.click.aliexpress.com/e/_c3PY8IAP,19.84,
+dragon-burner-toolhead,buy,BIGTREETECH EBB36 CANBus Toolhad Board V1.2,1,https://s.click.aliexpress.com/e/_c3MC48Xt,15.39,
+dragon-burner-toolhead,buy,Voron Tap Probe Kit,1,https://s.click.aliexpress.com/e/_c3SsvTCX,9.19,
+dragon-burner-toolhead,reference,Sherpa Mini Extruder (Annex Engineering),1,https://github.com/Annex-Engineering/Sherpa_Mini-Extruder,,Upstream project - extruder selection used with this build, see project for full BOM
+dragon-burner-toolhead,print,dragonburner-cowl.STL,1,,,
+dragon-burner-toolhead,buy,35mm M3 Socket Head Cap Screws,2,https://s.click.aliexpress.com/e/_c3tmFYGL,$2.25,Comes in quantities of 10
+dragon-burner-toolhead,print,ebb36-strain-relief-cover.STL,1,,,
+dragon-burner-toolhead,buy,M2 12mm Standoff (Male-Female),2,,,
+dragon-burner-toolhead,buy,M3 18mm Standoff (Female-Female),2,,,
+dragon-burner-toolhead,buy,M3 Heatset Insert 5mm D x 4mm L,1,,,Same insert used elsewhere in this project
+dragon-burner-toolhead,buy,M3 20mm Button Head Cap Screw,2,,,
+dragon-burner-toolhead,buy,M3 8mm Socket Head Cap Screw,2,,,
+dragon-burner-toolhead,buy,Velcro or Zip Tie,1,,,Secures the strain relief connection
