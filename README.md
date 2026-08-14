@@ -97,9 +97,9 @@ A common question is: **"How much does this build cost?"** It's hard to give one
 
 | Bucket | Est. Cost | Details |
 |--------|-----------|---------|
-| Base Printer | Varies (~$839.10+ for a 300mm kit) | [Section 1](#1-base-printer) |
+| Base Printer | Varies ($839.10+ for a 300mm kit) | [Section 1](#1-base-printer) |
 | Base Toolchanger Upgrade (one-time) | ~$68.01 | [Section 2](#2-base-toolchanger-upgrade-one-time) |
-| Per-Toolhead Cost (each ~$92.32 ×6 for this build) | ~$553.92 | [Section 3](#3-per-toolhead-cost) |
+| 6-Toolhead Cost (each ~$92.32 ×6 for this build) | ~$553.92 | [Section 3](#3-per-toolhead-cost) |
 | Misc Hardware | ~$50 | [Section 5](#5-filament--miscellaneous-hardware) |
 | Filament, single color | ~$20 | [Section 5](#5-filament--miscellaneous-hardware) |
 | **Estimated total (for a 6-toolhead upgrade, excl. base printer cost and additional filament colors)** | **~$694** | |
