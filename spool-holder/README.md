@@ -4,7 +4,7 @@
 
 A compact, adjustable spool holder designed to sit on top of the printer and fit within the Voron 2.4 30mm's 460mm (18in) width. The frame is built from 2020 aluminum extrusion (matching the printer) with two threaded rods running the length. Roller carriages slide along the rods and can be repositioned to accommodate different spool widths.
 
-Each spool rolls freely on 608 bearings for low-friction feeding. Built-in filament tube guides and quick-release ports route each filament toward the tool heads. The structure is designed to accept enclosure panels later, allowing it to double as a dry box with desiccant.
+Each spool rolls freely on 608 bearings for low-friction feeding. Built-in filament tube guides and quick-release ports route each filament toward the tool heads. The structure is designed to accept enclosure panels later, allowing it to double as a dry box with desiccant or a dehumidifier.
 
 ![Common Spool Sizes](../images/spool-holder-common-spool-sizes.png)
 
