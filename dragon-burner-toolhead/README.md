@@ -2,7 +2,7 @@
 
 ![Dragon Burner Cowl CAD](../images/dragon-burner-toolhead-assembly.png)
 
-A custom cowl for the [Dragon Burner](https://github.com/chirpy2605/voron-user-mods/tree/main/Universal/DragonBurner) toolhead by chirpy2605. Configured with a Sharkpa Mini Extruder and TZ 2.0 V6 hotend, a combination selected after testing multiple setups for the best balance of print quality and cost.
+A custom cowl for the [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) toolhead by chirpy2605. Configured with a Sharkpa Mini Extruder and TZ 2.0 V6 hotend, a combination selected after testing multiple setups for the best balance of print quality and cost.
 
 There are also files for the EBB36 toolhead board cover that provides strain relief for the CAN Bus cable and a mounting point for the spring steel umbilical guide.
 
