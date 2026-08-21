@@ -1,83 +1,89 @@
-Assembly,Type,Part,Quantity,Source,Unit Price,Total Price,Note
-dock,print,toolhead-dock-base.STL,1,,,,
-dock,print,toolhead-dock-plate.STL,1,,,,
-dock,print,toolhead-dock-bracket.STL,1,,,,
-dock,print,toolhead-dock-brush-holder.STL,1,,,,
-dock,print,Toolhead-dock-nozzle-pad-clip.STL,1,,,,
-dock,buy,Silicone Nozzle Brush (Bambu Lab A1 Mini size, cut in half),1,https://s.click.aliexpress.com/e/_c2wvhLBd,0.15,0.15,"Same brush type as Nozzle Brush Mount, cut in half; $2.96 per 10pcs, enough for the whole build + extras"
-dock,buy,16mm M5 Button Head Cap Screw,4,,,,Covered by overall misc hardware estimate, see main README
-dock,buy,10mm M5 Button Head Cap Screw,1,,,,Covered by overall misc hardware estimate, see main README
-dock,buy,14mm M3 Button Head Cap Screw,2,,,,Covered by overall misc hardware estimate, see main README
-dock,buy,M5 Heatset Insert 7mm D x 5mm L,4,,,,Covered by overall misc hardware estimate, see main README
-dock,buy,8mm M3 Button Head Cap Screw,2,,,,Covered by overall misc hardware estimate, see main README
-dock,buy,M3 Heatset Insert 5mm D x 4mm L,2,,,,Covered by overall misc hardware estimate, see main README
-nozzle-brush-mount,print,nozzle-brush-mount-base.STL,1,,,,
-nozzle-brush-mount,print,nozzle-brush-mount-top.STL,1,,,,
-nozzle-brush-mount,buy,Silicone Nozzle Brush (for Bambu Lab A1/A1 MINI),1,,,,Covered by overall misc hardware estimate, see main README
-nozzle-brush-mount,buy,20mm M3 Socket Head Cap Screw,1,,,,Covered by overall misc hardware estimate, see main README
-nozzle-brush-mount,buy,M3 2020 Roll Nut,1,,,,Covered by overall misc hardware estimate, see main README
-nozzle-brush-mount,reference,Sexball Probe Assembly,1,https://github.com/DraftShift/StealthChanger/wiki/Bill-of-Materials#sexball-probe,,,Upstream project - see project for parts and sourcing
-nozzle-brush-mount,buy,Mellow Hartk Sexbolt Z Limit Endstop,1,https://s.click.aliexpress.com/e/_c2vVlF4R,10.90,10.90,Sexball probe part
-nozzle-brush-mount,buy,M5 30mm Stainless Steel Outside Thread Solid Dowel Pin,5,https://s.click.aliexpress.com/e/_c3g0o8ox,0.63,3.14,Sexball probe part; pack of 5
-nozzle-brush-mount,buy,12.7D M5 Stainless Steel Drilling Balls Female Thread,1,https://s.click.aliexpress.com/e/_c2wXXZR9,6.64,6.64,Sexball probe part
-spool-holder,print,spool-holder-roller-end.STL,2,,,,
-spool-holder,print,spool-holder-roller-divider.STL,5,,,,
-spool-holder,print,spool-holder-tube-guide.STL,6,,,,
-spool-holder,print,spool-holder-port.STL,2,,,,
-spool-holder,buy,"2020 Extrusion, 420mm Length",4,https://amzn.to/4hoHVKv,,49.99,"Cut from a 10pc pack of 500mm bars, only sold as a full pack; per-piece cost not separable"
-spool-holder,buy,"2020 Extrusion, 260mm Length",4,https://amzn.to/4hoHVKv,,,"Cut from the same pack (pairs with a 240mm piece per bar), cost counted on the 420mm line"
-spool-holder,buy,"2020 Extrusion, 240mm Length",4,https://amzn.to/4hoHVKv,,,"Cut from the same pack (pairs with a 260mm piece per bar), cost counted on the 420mm line"
-spool-holder,buy,M5 10mm Button Head Cap Screw,16,,,,Covered by overall misc hardware estimate, see main README
-spool-holder,buy,8mmx460mm Threaded Rod,2,https://amzn.to/4g3PELE,9.50,18.99,"Sourced as 2pc pack of 8mm x 500mm linear rod, cut to length"
-spool-holder,buy,608 Bearings (base),4,https://s.click.aliexpress.com/e/_c2vzm3aT,0.27,1.07,"$5.36 per 20-pack, 4 not tied to a toolhead"
-spool-holder,buy,608 Bearings (per toolhead x6),48,https://s.click.aliexpress.com/e/_c2vzm3aT,0.27,12.86,"$5.36 per 20-pack, 8 per toolhead x6"
-spool-holder,buy,ECAS04 Quick Connect Collet,12,https://www.aliexpress.us/item/3256812555226121.html,0.25,3.00,2 per toolhead x6
-spool-holder,buy,PTFE Tube Clear 4mmOD x 3mm ID (~26in) spool holder to umbilical plate,6,https://s.click.aliexpress.com/e/_c3qePSft,1.27,7.63,"$1.93/meter, 1 per toolhead x6"
-spool-holder,buy,PTFE Tube Clear 4mmOD x 3mm ID (~10in) internal guide,6,https://s.click.aliexpress.com/e/_c3qePSft,0.49,2.94,"$1.93/meter, 1 per toolhead x6"
-spool-holder,buy,M3 Heatset Insert 5mm D x 4mm L,4,,,,Covered by overall misc hardware estimate, see main README
-spool-holder,buy,M3 12mm Socket Head Cap Screw,4,,,,Covered by overall misc hardware estimate, see main README
-spool-holder,buy,M3 10mm Socket Head Cap Screw,4,,,,Covered by overall misc hardware estimate, see main README
-spool-holder,buy,M3 2020 Roll Nut,4,,,,Covered by overall misc hardware estimate, see main README
-umbilical-backplate,print,umbilical-backplate.STL,1,,,,
-umbilical-backplate,print,umbilical-backplate-nut-retainer.STL,1,,,,
-umbilical-backplate,buy,ECAS04 quick connect collet,12,https://www.aliexpress.us/item/3256812555226121.html,0.25,3.00,
-umbilical-backplate,buy,GX12-4 Jack,6,https://s.click.aliexpress.com/e/_c2vhMl6x,0.59,3.54,"Price per male/female pair (includes mating GX12-4 Plug), 1 pair per toolhead x6"
-umbilical-backplate,buy,M3 Heatset Insert 5mm D x 4mm L,6,,,,Covered by overall misc hardware estimate, see main README
-umbilical-backplate,buy,M3x10mm screw or M3 set screw,6,,,,Covered by overall misc hardware estimate, see main README
-umbilical-backplate,buy,M5 10mm Button Head Cap Screw,3,,,,Covered by overall misc hardware estimate, see main README
-umbilical-backplate,buy,M5 2020 Roll Nut,3,,,,Covered by overall misc hardware estimate, see main README
-umbilical-bracket,print,umbilical-bracket-bottom.STL,1,,,,
-umbilical-bracket,print,umbilical-bracket-top.STL,1,,,,
-umbilical-bracket,buy,M3 6mm Thread Rolling Screw,1,,,,Covered by overall misc hardware estimate, see main README
-umbilical-assembly,assembly,umbilical-bracket,8,,,,
-umbilical-assembly,buy,"CAN Bus Cable 4mm diameter (~23.5in, 600mm)",1,,4.00,4.00,"Cut from a 6ft 100W shielded USB-C cable (2 CAN cables per cable); exact cable no longer sold. Verify replacement cable rating meets your toolhead electronics requirements; alternatives: 240W USB-C cable, chainflex cable"
-umbilical-assembly,buy,"4mmOD x 3mm ID PTFE Guide Tube (~26in, 660mm)",1,https://s.click.aliexpress.com/e/_c3qePSft,1.27,1.27,$1.93/meter
-umbilical-assembly,buy,GX12-4 Plug,1,https://s.click.aliexpress.com/e/_c2vhMl6x,,,Priced with the mating GX12-4 Jack, see Umbilical Backplate BOM
-umbilical-assembly,buy,2x2 Microfit Connector,1,,,,Comes with the EBB36 toolboard, not purchased separately
-umbilical-assembly,buy,.3mmx3mm flat coil spring (70mm),1,https://s.click.aliexpress.com/e/_c2xB7uAf,1.67,13.39,"Cut from a 0.3x3x34x1900mm roll ($13.39 total, ~$1.67/umbilical), one roll covers the whole build (8 umbilicals)"
-umbilical-assembly,buy,.3mmx3mm flat coil spring (100mm),1,https://s.click.aliexpress.com/e/_c2xB7uAf,,,Cut from the same roll, cost counted on the 70mm line
-dragon-burner-toolhead,reference,Dragon Burner Toolhead (chirpy2605),1,https://github.com/chirpy2605/voron-user-mods/tree/main/Universal/DragonBurner,,,Upstream project - base toolhead body, printed parts, and hardware; external assembly hardware covered by overall misc hardware estimate, see main README
-dragon-burner-toolhead,reference,StealthChanger DragonBurner Backplate,1,https://stealthchanger.com/hardware/guides/backplates/4_dragonburner/#printed-bom,,,Upstream project - printed backplate mounting to the StealthChanger toolchanger
-dragon-burner-toolhead,buy,4x12mm M3 Dowel Pin,3,https://s.click.aliexpress.com/e/_c3iT67xV,0.75,2.25,"Sold in packs of 10; secures the StealthChanger backplate"
-dragon-burner-toolhead,buy,TZ V6 2.0 Hotend,1,https://s.click.aliexpress.com/e/_c3Mq5ohd,17.87,17.87,
-dragon-burner-toolhead,buy,Moons Nema14 Motor,1,https://s.click.aliexpress.com/e/_c3PY8IAP,19.84,19.84,
-dragon-burner-toolhead,buy,BIGTREETECH EBB36 CANBus Toolhad Board V1.2,1,https://s.click.aliexpress.com/e/_c3MC48Xt,15.39,15.39,
-dragon-burner-toolhead,buy,Voron Tap Probe Kit,1,https://s.click.aliexpress.com/e/_c3SsvTCX,9.19,9.19,
-dragon-burner-toolhead,buy,Gdstime 3010 24V Sleeve 2P2.54 Fan,1,https://s.click.aliexpress.com/e/_c3NtUlNp,4.08,4.08,
-dragon-burner-toolhead,buy,Gdstime 4010 24V H 2P2.54 Fan,2,https://s.click.aliexpress.com/e/_c4E8RYo3,5.14,10.28,
-dragon-burner-toolhead,reference,Sherpa Mini Extruder (Annex Engineering),1,https://github.com/Annex-Engineering/Sherpa_Mini-Extruder,,,Upstream project - extruder selection used with this build, see project for full BOM
-dragon-burner-toolhead,buy,Sherpa Mini Hardware Kit (bearings/pins/springs),1,https://s.click.aliexpress.com/e/_c4qK86KB,4.08,4.08,Self-printed Sherpa Mini; cheap AliExpress hardware kit estimate
-dragon-burner-toolhead,print,dragonburner-cowl.STL,1,,,,
-dragon-burner-toolhead,buy,35mm M3 Socket Head Cap Screws,2,https://s.click.aliexpress.com/e/_c3tmFYGL,0.23,2.25,"$2.25 per 10pc pack, only sold as a full pack"
-dragon-burner-toolhead,print,ebb36-strain-relief-cover.STL,1,,,,
-dragon-burner-toolhead,buy,M3 12mm Standoff (Male-Female),2,,,,Covered by overall misc hardware estimate, see main README
-dragon-burner-toolhead,buy,M3 18mm Standoff (Female-Female),2,,,,Covered by overall misc hardware estimate, see main README
-dragon-burner-toolhead,buy,M3 Heatset Insert 5mm D x 4mm L,1,,,,Same insert used elsewhere in this project; covered by overall misc hardware estimate, see main README
-dragon-burner-toolhead,buy,M3 20mm Button Head Cap Screw,2,,,,Covered by overall misc hardware estimate, see main README
-dragon-burner-toolhead,buy,M3 8mm Socket Head Cap Screw,2,,,,Covered by overall misc hardware estimate, see main README
-dragon-burner-toolhead,buy,Velcro or Zip Tie,1,,,,Secures the strain relief connection; covered by overall misc hardware estimate, see main README
-can-distribution-board-mount,print,can-distribution-board-mount.STL,1,,,,Files coming soon
-can-distribution-board-mount,buy,FYSETC CAN Bus Distribution Board for StealthChanger,1,https://www.fabreeko.com/products/can-bus-distribution-board-for-stealth-changer-by-fysetc,19.99,19.99,6-channel switched CAN/power distribution
-can-distribution-board-mount,buy,M3 8mm Thread Rolling Screw,4,,,,Mounts the distribution board to the mount; covered by overall misc hardware estimate, see main README
-can-distribution-board-mount,buy,M3 10mm Socket Head Cap Screw,2,,,,Attaches the mount to the Umbilical Backplate; covered by overall misc hardware estimate, see main README
-can-distribution-board-mount,reference,BTT U2C CAN Bridge,1,https://s.click.aliexpress.com/e/_c3FzcP0n,20.80,20.80,Suggested pairing (host-side USB-to-CAN adapter), not part of this mount enclosure
+Assembly,Type,Part,Quantity,Source,Unit Price,Total Price,Alt Source,Note
+dock,print,toolhead-dock-base.STL,1,,,,,
+dock,print,toolhead-dock-plate.STL,1,,,,,
+dock,print,toolhead-dock-bracket.STL,1,,,,,
+dock,print,toolhead-dock-brush-holder.STL,1,,,,,
+dock,print,Toolhead-dock-nozzle-pad-clip.STL,1,,,,,
+dock,buy,Silicone Nozzle Brush (Bambu Lab A1 Mini size cut in half),1,https://s.click.aliexpress.com/e/_c2wvhLBd,0.15,0.15,https://amzn.to/4zvQkCc,"Same brush type as Nozzle Brush Mount, cut in half; $2.96 per 10pcs, enough for the whole build + extras"
+dock,buy,16mm M5 Button Head Cap Screw,4,,,,,Covered by overall misc hardware estimate see main README
+dock,buy,10mm M5 Button Head Cap Screw,1,,,,,Covered by overall misc hardware estimate see main README
+dock,buy,14mm M3 Button Head Cap Screw,2,,,,,Covered by overall misc hardware estimate see main README
+dock,buy,M5 Heatset Insert 7mm D x 5mm L,4,,,,,Covered by overall misc hardware estimate see main README
+dock,buy,8mm M3 Button Head Cap Screw,2,,,,,Covered by overall misc hardware estimate see main README
+dock,buy,M3 Heatset Insert 5mm D x 4mm L,2,,,,,Covered by overall misc hardware estimate see main README
+nozzle-brush-mount,print,nozzle-brush-mount-base.STL,1,,,,,
+nozzle-brush-mount,print,nozzle-brush-mount-top.STL,1,,,,,
+nozzle-brush-mount,buy,Silicone Nozzle Brush (for Bambu Lab A1/A1 MINI),1,,,,,Covered by overall misc hardware estimate see main README
+nozzle-brush-mount,buy,20mm M3 Socket Head Cap Screw,1,,,,,Covered by overall misc hardware estimate see main README
+nozzle-brush-mount,buy,M3 2020 Roll Nut,1,,,,,Covered by overall misc hardware estimate see main README
+nozzle-brush-mount,reference,Sexball Probe Assembly,1,https://github.com/DraftShift/StealthChanger/wiki/Bill-of-Materials#sexball-probe,,,,Upstream project - see project for parts and sourcing
+nozzle-brush-mount,buy,Mellow Hartk Sexbolt Z Limit Endstop,1,https://s.click.aliexpress.com/e/_c2vVlF4R,10.9,10.9,https://amzn.to/4bZMur3,Sexball probe part
+nozzle-brush-mount,buy,M5 30mm Stainless Steel Outside Thread Solid Dowel Pin,5,https://s.click.aliexpress.com/e/_c3g0o8ox,0.63,3.14,https://amzn.to/4zzrLEI,Sexball probe part; pack of 5
+nozzle-brush-mount,buy,12.7 or 12mm D M5 Stainless Steel Drilling Balls Female Thread,1,https://s.click.aliexpress.com/e/_c2wXXZR9,6.64,6.64,https://amzn.to/46cNQv5,Sexball probe part
+spool-holder,print,spool-holder-roller-end.STL,2,,,,,
+spool-holder,print,spool-holder-roller-divider.STL,5,,,,,
+spool-holder,print,spool-holder-tube-guide.STL,6,,,,,
+spool-holder,print,spool-holder-port.STL,2,,,,,
+spool-holder,buy,"2020 Extrusion, 420mm Length",4,https://amzn.to/4hoHVKv,,49.99,https://amzn.to/4gHHdXQ,"Cut from a 10pc pack of 500mm bars, only sold as a full pack; per-piece cost not separable"
+spool-holder,buy,"2020 Extrusion, 260mm Length",4,https://amzn.to/4hoHVKv,,,https://amzn.to/4gHHdXQ,"Cut from the same pack (pairs with a 240mm piece per bar), cost counted on the 420mm line"
+spool-holder,buy,"2020 Extrusion, 240mm Length",4,https://amzn.to/4hoHVKv,,,https://amzn.to/4gHHdXQ,"Cut from the same pack (pairs with a 260mm piece per bar), cost counted on the 420mm line"
+spool-holder,buy,M5 10mm Button Head Cap Screw,16,https://amzn.to/4hoHVKv,,,,Covered by overall misc hardware estimate see main README
+spool-holder,buy,8mmx460mm Rod (Smooth or Threaded),2,https://s.click.aliexpress.com/e/_c4NcuZcf,5.1,10.1,https://amzn.to/4g3PELE,"Sourced as 2pc pack of 8mm x 500mm linear rod, cut to length"
+spool-holder,buy,608 Bearings (base),4,https://amzn.to/4cwubtG,0.27,1.07,https://s.click.aliexpress.com/e/_c3qePSft,"$5.36 per 20-pack, 4 not tied to a toolhead"
+spool-holder,buy,608 Bearings (per toolhead x6),48,https://amzn.to/4cwubtG,0.27,12.86,https://s.click.aliexpress.com/e/_c3qePSft,"$5.36 per 20-pack, 8 per toolhead x6"
+spool-holder,buy,ECAS04 Quick Connect Collet,12,https://www.aliexpress.us/item/3256812555226121.html,0.25,3,https://amzn.to/4gs7Q1K,2 per toolhead x6
+spool-holder,buy,PTFE Tube Clear 4mmOD x 3mm ID (~26in) spool holder to umbilical plate,6,https://s.click.aliexpress.com/e/_c3qePSft,1.27,7.63,https://amzn.to/4gMqQIz,"$1.93/meter, 1 per toolhead x6"
+spool-holder,buy,PTFE Tube Clear 4mmOD x 3mm ID (~10in) internal guide,6,https://s.click.aliexpress.com/e/_c3qePSft,0.49,2.94,https://amzn.to/4gMqQIz,"$1.93/meter, 1 per toolhead x6"
+spool-holder,buy,M3 Heatset Insert 5mm D x 4mm L,4,,,,,Covered by overall misc hardware estimate see main README
+spool-holder,buy,M3 12mm Socket Head Cap Screw,4,,,,,Covered by overall misc hardware estimate see main README
+spool-holder,buy,M3 10mm Socket Head Cap Screw,4,,,,,Covered by overall misc hardware estimate see main README
+spool-holder,buy,M3 2020 Roll Nut,4,,,,,Covered by overall misc hardware estimate see main README
+umbilical-backplate,print,umbilical-backplate.STL,1,,,,,
+umbilical-backplate,print,umbilical-backplate-nut-retainer.STL,1,,,,,
+umbilical-backplate,buy,ECAS04 quick connect collet,12,https://www.aliexpress.us/item/3256812555226121.html,0.25,3,https://amzn.to/4gs7Q1K,
+umbilical-backplate,buy,GX12-4 Jack,6,https://s.click.aliexpress.com/e/_c2vhMl6x,0.59,3.54,https://amzn.to/4gaFnOZ,"Price per male/female pair (includes mating GX12-4 Plug), 1 pair per toolhead x6"
+umbilical-backplate,buy,M3 Heatset Insert 5mm D x 4mm L,6,,,,,Covered by overall misc hardware estimate see main README
+umbilical-backplate,buy,M3x10mm screw or M3 set screw,6,,,,,Covered by overall misc hardware estimate see main README
+umbilical-backplate,buy,M5 10mm Button Head Cap Screw,3,,,,,Covered by overall misc hardware estimate see main README
+umbilical-backplate,buy,M5 2020 Roll Nut,3,,,,,Covered by overall misc hardware estimate see main README
+umbilical-bracket,print,umbilical-bracket-bottom.STL,1,,,,,
+umbilical-bracket,print,umbilical-bracket-top.STL,1,,,,,
+umbilical-bracket,buy,M3 6mm Thread Rolling Screw,1,,,,,Covered by overall misc hardware estimate see main README
+umbilical-assembly,assembly,umbilical-bracket,8,,,,,
+umbilical-assembly,buy,"CAN Bus Cable 4mm diameter (~23.5in, 600mm)",1,,4,4,,"Cut from a 6ft 100W shielded USB-C cable (2 CAN cables per cable); exact cable no longer sold. Verify replacement cable rating meets your toolhead electronics requirements; alternatives: 240W USB-C cable, chainflex cable"
+umbilical-assembly,buy,"4mmOD x 3mm ID PTFE Guide Tube (~26in, 660mm)",1,https://s.click.aliexpress.com/e/_c3qePSft,1.27,1.27,https://amzn.to/4gMqQIz,$1.93/meter
+umbilical-assembly,buy,GX12-4 Plug,1,https://s.click.aliexpress.com/e/_c2vhMl6x,,,https://amzn.to/4gaFnOZ,Priced with the mating GX12-4 Jack see Umbilical Backplate BOM
+umbilical-assembly,buy,2x2 Microfit Connector,1,https://amzn.to/4ifp2tK,,,,Comes with the EBB36 toolboard not purchased separately
+umbilical-assembly,buy,.3mmx3mm flat coil spring (70mm),1,https://amzn.to/4wyCufH,1.67,13.39,https://s.click.aliexpress.com/e/_c2xB7uAf,"Cut from a 0.3x3x34x1900mm roll ($11.00 total, ~$1.67/umbilical), one roll covers the whole build (8 umbilicals)"
+umbilical-assembly,buy,.3mmx3mm flat coil spring (100mm),1,https://amzn.to/4wyCufH,,,https://s.click.aliexpress.com/e/_c2xB7uAf,Cut from the same roll cost counted on the 70mm line
+dragon-burner-toolhead,reference,Dragon Burner Toolhead (chirpy2605),1,https://github.com/chirpy2605/voron-user-mods/tree/main/Universal/DragonBurner,,,,Upstream project - base toolhead body printed parts and hardware; external assembly hardware covered by overall misc hardware estimate. see main README
+dragon-burner-toolhead,reference,StealthChanger DragonBurner Backplate,1,https://stealthchanger.com/hardware/guides/backplates/4_dragonburner/#printed-bom,,,,Upstream project - printed backplate mounting to the StealthChanger toolchanger
+dragon-burner-toolhead,buy,4x12mm M3 Dowel Pin,3,https://s.click.aliexpress.com/e/_c3iT67xV,0.75,2.25,https://amzn.to/4gjgK1h,Sold in packs of 10; secures the StealthChanger backplate
+dragon-burner-toolhead,buy,TZ V6 2.0 Hotend,1,https://s.click.aliexpress.com/e/_c3Mq5ohd,17.87,17.87,https://amzn.to/4wB6uYB,
+dragon-burner-toolhead,buy,Moons Nema14 Motor,1,https://s.click.aliexpress.com/e/_c3PY8IAP,19.84,19.84,https://amzn.to/4wGdByK,
+dragon-burner-toolhead,buy,BIGTREETECH EBB36 CANBus Toolhead Board V1.2,1,https://s.click.aliexpress.com/e/_c3MC48Xt,15.39,15.39,,
+dragon-burner-toolhead,buy,Voron Tap Probe Kit,1,https://s.click.aliexpress.com/e/_c3SsvTCX,9.19,9.19,https://amzn.to/4goA2T5,
+dragon-burner-toolhead,buy,Gdstime 3010 24V Sleeve 2P2.54 Fan,1,https://s.click.aliexpress.com/e/_c3NtUlNp,4.08,4.08,https://amzn.to/4wLNCWN,
+dragon-burner-toolhead,buy,Gdstime 4010 24V H Blower 2P2.54 Fan,2,https://s.click.aliexpress.com/e/_c4E8RYo3,5.14,10.28,https://amzn.to/45YBXcp,
+dragon-burner-toolhead,reference,Sherpa Mini Extruder (Annex Engineering),1,https://github.com/Annex-Engineering/Sherpa_Mini-Extruder,,,,Upstream project - extruder selection used with this build see project for full BOM
+dragon-burner-toolhead,buy,Sherpa Mini Hardware Kit (bearings/pins/springs),1,https://s.click.aliexpress.com/e/_c4qK86KB,4.08,4.08,https://amzn.to/3Sp1WWZ,Self-printed Sherpa Mini; cheap AliExpress hardware kit estimate
+dragon-burner-toolhead,print,dragonburner-cowl.STL,1,,,,,
+dragon-burner-toolhead,buy,35mm M3 Socket Head Cap Screws,2,https://s.click.aliexpress.com/e/_c3tmFYGL,0.23,2.25,https://amzn.to/4xbUg9I,"$2.25 per 10pc pack, only sold as a full pack"
+dragon-burner-toolhead,print,ebb36-strain-relief-cover.STL,1,,,,,
+dragon-burner-toolhead,buy,M3 12mm Standoff (Male-Female),2,,,,,Covered by overall misc hardware estimate see main README
+dragon-burner-toolhead,buy,M3 18mm Standoff (Female-Female),2,,,,,Covered by overall misc hardware estimate see main README
+dragon-burner-toolhead,buy,M3 Heatset Insert 5mm D x 4mm L,1,,,,,Same insert used elsewhere in this project; covered by overall misc hardware estimate see main README
+dragon-burner-toolhead,buy,M3 20mm Button Head Cap Screw,2,,,,,Covered by overall misc hardware estimate see main README
+dragon-burner-toolhead,buy,M3 8mm Socket Head Cap Screw,2,,,,,Covered by overall misc hardware estimate see main README
+dragon-burner-toolhead,buy,Velcro or Zip Tie,1,,,,,Secures the strain relief connection; covered by overall misc hardware estimate see main README
+can-distribution-board-mount,print,can-distribution-board-mount.STL,1,,,,,Files coming soon
+can-distribution-board-mount,buy,FYSETC CAN Bus Distribution Board for StealthChanger,1,https://www.fabreeko.com/products/can-bus-distribution-board-for-stealth-changer-by-fysetc,19.99,19.99,,6-channel switched CAN/power distribution
+can-distribution-board-mount,buy,M3 8mm Thread Rolling Screw,4,,,,,Mounts the distribution board to the mount; covered by overall misc hardware estimate see main README
+can-distribution-board-mount,buy,M3 10mm Socket Head Cap Screw,2,,,,,Attaches the mount to the Umbilical Backplate; covered by overall misc hardware estimate see main README
+can-distribution-board-mount,reference,BTT U2C CAN Bridge,1,https://amzn.to/45Fp9Hz,19.99,19.99,https://s.click.aliexpress.com/e/_c3FzcP0n,Suggested pairing (host-side USB-to-CAN adapter) not part of this mount enclosure
+filament,buy,Polymaker ASA Pop Blue (Cyan),1,https://amzn.to/4gcIvKo,,,,ASA only; see main README for full filament color list
+filament,buy,MatterHackers Magenta ABS,1,https://www.matterhackers.com/store/3d-printer-filament/magenta-abs-filament-1.75mm,,,,ABS only; see main README for full filament color list
+filament,buy,MatterHackers Yellow ABS,1,https://www.matterhackers.com/store/l/175mm-abs-filament-yellow-1-kg/sk/M-1NX-QXFR,,,,ABS only; see main README for full filament color list
+filament,buy,Polymaker White (ABS or ASA - pick one),1,https://amzn.to/4cA1c8l,,,https://amzn.to/45FyLlC,ASA alternative; See main README for full filament color list
+filament,buy,Polymaker Gray (ABS or ASA - pick one),1,https://amzn.to/4xRpfb5,,,https://amzn.to/3ULpFkU,ASA alternative; See main README for full filament color list
+filament,buy,Polymaker Black (ABS or ASA - pick one),1,https://amzn.to/4zvPRzW,,,https://amzn.to/4xUeXqN,ASA alternative; See main README for full filament color list

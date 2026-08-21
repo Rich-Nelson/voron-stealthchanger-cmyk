@@ -26,6 +26,6 @@ A mount/enclosure for the FYSETC CAN Bus Distribution Board for StealthChanger, 
 
 Not part of this mount, but a common companion since it needs to connect somewhere upstream on the CAN bus:
 
-| Part | Qty | Unit Cost | Total Cost | Source | Note |
-|------|-----|-----------|------------|--------|------|
-| BTT U2C CAN Bridge | 1 | $20.80 | $20.80 | [AliExpress](https://s.click.aliexpress.com/e/_c3FzcP0n) | Host-side USB-to-CAN adapter |
+| Part | Qty | Unit Cost | Total Cost | Source | Alt Source | Note |
+|------|-----|-----------|------------|--------|------------|------|
+| BTT U2C CAN Bridge | 1 | $19.99 | $19.99 | [Amazon](https://amzn.to/45Fp9Hz) | [AliExpress](https://s.click.aliexpress.com/e/_c3FzcP0n) | Host-side USB-to-CAN adapter |

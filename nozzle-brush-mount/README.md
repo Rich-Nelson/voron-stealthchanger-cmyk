@@ -39,8 +39,8 @@ The Sexball probe is mounted by this bracket but is not part of this repo:
 
 #### Sexball Probe Parts (as sourced for this build)
 
-| Part | Qty | Unit Cost | Total Cost | Source | Note |
-|------|-----|-----------|------------|--------|------|
-| Mellow Hartk Sexbolt Z Limit Endstop | 1 | $10.90 | $10.90 | [AliExpress](https://s.click.aliexpress.com/e/_c2vVlF4R) | |
-| M5 30mm Stainless Steel Outside Thread Solid Dowel Pin | 5 | $0.63 | $3.14 | [AliExpress](https://s.click.aliexpress.com/e/_c3g0o8ox) | Pack of 5 |
-| 12.7D M5 Stainless Steel Drilling Balls, Female Thread | 1 | $6.64 | $6.64 | [AliExpress](https://s.click.aliexpress.com/e/_c2wXXZR9) | |
+| Part | Qty | Unit Cost | Total Cost | Source | Alt Source | Note |
+|------|-----|-----------|------------|--------|------------|------|
+| Mellow Hartk Sexbolt Z Limit Endstop | 1 | $10.90 | $10.90 | [AliExpress](https://s.click.aliexpress.com/e/_c2vVlF4R) | [Amazon](https://amzn.to/4bZMur3) | |
+| M5 30mm Stainless Steel Outside Thread Solid Dowel Pin | 5 | $0.63 | $3.14 | [AliExpress](https://s.click.aliexpress.com/e/_c3g0o8ox) | [Amazon](https://amzn.to/4zzrLEI) | Pack of 5 |
+| 12.7 or 12mm D M5 Stainless Steel Drilling Balls, Female Thread | 1 | $6.64 | $6.64 | [AliExpress](https://s.click.aliexpress.com/e/_c2wXXZR9) | [Amazon](https://amzn.to/46cNQv5) | |

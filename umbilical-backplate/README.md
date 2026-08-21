@@ -21,11 +21,11 @@ A wall-mounted plate that acts as the single connection point where all six tool
 
 ### Hardware
 
-| Part | Qty | Unit Cost | Total Cost | Source | Note |
-|------|-----|-----------|------------|--------|------|
-| ECAS04 Quick Connect Collet | 12 | $0.25 | $3.00 | [AliExpress](https://www.aliexpress.us/item/3256812555226121.html) | |
-| GX12-4 Jack | 6 | $0.59 | $3.54 | [AliExpress](https://s.click.aliexpress.com/e/_c2vhMl6x) | Price per male/female pair (includes mating GX12-4 Plug), 1 pair per toolhead |
-| M3 Heatset Insert 5mm D x 4mm L | 6 | | | | Covered by overall misc hardware estimate, see main README |
-| M3 x 10mm Screw or M3 Set Screw | 6 | | | | Covered by overall misc hardware estimate, see main README |
-| M5 10mm Button Head Cap Screw | 3 | | | | Covered by overall misc hardware estimate, see main README |
-| M5 2020 Roll Nut | 3 | | | | Covered by overall misc hardware estimate, see main README |
+| Part | Qty | Unit Cost | Total Cost | Source | Alt Source | Note |
+|------|-----|-----------|------------|--------|------------|------|
+| ECAS04 Quick Connect Collet | 12 | $0.25 | $3.00 | [AliExpress](https://www.aliexpress.us/item/3256812555226121.html) | [Amazon](https://amzn.to/4gs7Q1K) | |
+| GX12-4 Jack | 6 | $0.59 | $3.54 | [AliExpress](https://s.click.aliexpress.com/e/_c2vhMl6x) | [Amazon](https://amzn.to/4gaFnOZ) | Price per male/female pair (includes mating GX12-4 Plug), 1 pair per toolhead |
+| M3 Heatset Insert 5mm D x 4mm L | 6 | | | | | Covered by overall misc hardware estimate, see main README |
+| M3 x 10mm Screw or M3 Set Screw | 6 | | | | | Covered by overall misc hardware estimate, see main README |
+| M5 10mm Button Head Cap Screw | 3 | | | | | Covered by overall misc hardware estimate, see main README |
+| M5 2020 Roll Nut | 3 | | | | | Covered by overall misc hardware estimate, see main README |

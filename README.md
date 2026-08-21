@@ -12,14 +12,16 @@ This repo documents all of the custom and modified components.
 
 ## Filaments used in this build
 
-| Color | Filament |
-|-------|----------|
-| Cyan | Polymaker ASA Pop Blue |
-| Magenta | MatterHackers Magenta ABS |
-| Yellow | MatterHackers Yellow ABS |
-| White | PolyLite ABS White |
-| Gray | PolyLite ASA Gray |
-| Black | PolyLite ASA Black |
+Finding the right color filaments was quite difficult, since online photos do not always match the actual color. So here are the exact filaments I used so you dont't have to keep buying rolls of filament until you find the right Cyan and Magenta...
+
+| Color | Filament | Source |
+|-------|----------|--------|
+| Cyan | Polymaker ASA Pop Blue | [Amazon](https://amzn.to/4gcIvKo)
+| Magenta | MatterHackers Magenta ABS | [MatterHackers](https://www.matterhackers.com/store/3d-printer-filament/magenta-abs-filament-1.75mm)
+| Yellow | MatterHackers Yellow ABS | [MatterHackers](https://www.matterhackers.com/store/l/175mm-abs-filament-yellow-1-kg/sk/M-1NX-QXFR)
+| White | Polymaker White ABS | [Amazon (ABS)](https://amzn.to/4cA1c8l) / [Amazon (ASA)](https://amzn.to/45FyLlC)
+| Gray | Polymaker Gray ASA | [Amazon (ABS)](https://amzn.to/4xRpfb5) / [Amazon (ASA)](https://amzn.to/3ULpFkU) 
+| Black | Polymaker Black ABS | [Amazon (ABS)](https://amzn.to/4zvPRzW) / [Amazon (ASA)](https://amzn.to/4xUeXqN)
 
 ---
 
@@ -98,12 +100,12 @@ A common question is: **"How much does this build cost?"** It's hard to give one
 | Bucket | Est. Cost | Details |
 |--------|-----------|---------|
 | Base Printer | Varies (~$839.10+ for a 300mm kit) | [Section 1](#1-base-printer) |
-| Base Toolchanger Upgrade (one-time) | ~$68.01 | [Section 2](#2-base-toolchanger-upgrade-one-time) |
+| Base Toolchanger Upgrade (one-time) | ~$67.20 | [Section 2](#2-base-toolchanger-upgrade-one-time) |
 | Per-Toolhead Cost (each ~$92.32 ×6 for this build) | ~$553.92 | [Section 3](#3-per-toolhead-cost) |
 | Misc Hardware | ~$50 | [Section 5](#5-filament--miscellaneous-hardware) |
 | Filament, single color | ~$20 | [Section 5](#5-filament--miscellaneous-hardware) |
-| **Estimated total (for a 6-toolhead upgrade, excl. base printer cost and additional filament colors)** | **~$694** | |
-| + Spool Holder (optional add-on, not in total above) | +$96.48 | [Section 4](#4-additional-components) |
+| **Estimated total (for a 6-toolhead upgrade, excl. base printer cost and additional filament colors)** | **~$691** | |
+| + Spool Holder (optional add-on, not in total above) | +$87.59 | [Section 4](#4-additional-components) |
 
 If you're building a different number of toolheads, swap in `Per-Toolhead Cost (each)` × your count instead of the ×6 row.
 
@@ -115,15 +117,15 @@ The cost of your [Voron 2.4](https://github.com/VoronDesign/Voron-2) (or similar
 
 Shared components needed to convert the printer to multi-toolhead, regardless of toolhead count.
 
-| Item | Est. Total Cost | Source | Note |
-|------|-----------|--------|------|
-| BTT U2C CAN Bridge | $20.80 | [AliExpress](https://s.click.aliexpress.com/e/_c3FzcP0n) | Host-side USB-to-CAN adapter |
-| FYSETC CAN Bus Distribution Board for StealthChanger | $19.99 | [Fabreeko](https://www.fabreeko.com/products/can-bus-distribution-board-for-stealth-changer-by-fysetc) | Splits CAN bus to each toolboard, see [CAN Distribution Board Mount](can-distribution-board-mount/) |
-| [Umbilical Backplate](umbilical-backplate/) hardware | $6.54 | | ECAS04 + GX12-4 Jack; remaining screws/heatsets covered by the misc hardware estimate in section 5 |
-| [Nozzle Brush Mount](nozzle-brush-mount/) hardware | | | Brush + screw + nut covered by the misc hardware estimate in section 5 |
-| Sexball Probe Assembly | $20.68 | [Sexball BOM](https://github.com/DraftShift/StealthChanger/wiki/Bill-of-Materials#sexball-probe) | External project; endstop + dowel pins + probe balls priced, see [Nozzle Brush Mount](nozzle-brush-mount/) BOM |
+| Item | Est. Total Cost | Source | Alt Source | Note |
+|------|-----------|--------|------------|------|
+| BTT U2C CAN Bridge | $19.99 | [Amazon](https://amzn.to/45Fp9Hz) | [AliExpress](https://s.click.aliexpress.com/e/_c3FzcP0n) | Host-side USB-to-CAN adapter |
+| FYSETC CAN Bus Distribution Board for StealthChanger | $19.99 | [Fabreeko](https://www.fabreeko.com/products/can-bus-distribution-board-for-stealth-changer-by-fysetc) | | Splits CAN bus to each toolboard, see [CAN Distribution Board Mount](can-distribution-board-mount/) |
+| [Umbilical Backplate](umbilical-backplate/) hardware | $6.54 | | | ECAS04 + GX12-4 Jack; remaining screws/heatsets covered by the misc hardware estimate in section 5 |
+| [Nozzle Brush Mount](nozzle-brush-mount/) hardware | | | | Brush + screw + nut covered by the misc hardware estimate in section 5 |
+| Sexball Probe Assembly | $20.68 | [Sexball BOM](https://github.com/DraftShift/StealthChanger/wiki/Bill-of-Materials#sexball-probe) | | External project; endstop + dowel pins + probe balls priced, see [Nozzle Brush Mount](nozzle-brush-mount/) BOM |
 
-**Known subtotal: ~$68.01**
+**Known subtotal: ~$67.20**
 
 ### 3. Per-Toolhead Cost
 
@@ -147,7 +149,7 @@ Optional add-ons, priced separately since not every build needs them.
 
 | Item | Est. Total Cost | Note |
 |------|-----------|------|
-| [Spool Holder](spool-holder/) | $96.48 | Bearings, ECAS04, PTFE tube, extrusion, and rod priced; remaining screws/heatsets covered by the misc hardware estimate in section 5 |
+| [Spool Holder](spool-holder/) | $87.59 | Bearings, ECAS04, PTFE tube, extrusion, and rod priced; remaining screws/heatsets covered by the misc hardware estimate in section 5 |
 
 ### 5. Filament & Miscellaneous Hardware
 

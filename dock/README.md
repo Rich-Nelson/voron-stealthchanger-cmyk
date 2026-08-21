@@ -33,12 +33,12 @@ The dock was originally designd to use a 10mm acrylic panel as the plate, but it
 
 ### Hardware
 
-| Part | Qty | Unit Cost | Total Cost | Source | Note |
-|------|-----|-----------|------------|--------|------|
-| Silicone Nozzle Brush (Bambu Lab A1 Mini size, cut in half) | 1 | $0.15 | $0.15 | [AliExpress](https://s.click.aliexpress.com/e/_c2wvhLBd) | Same brush type as [Nozzle Brush Mount](../nozzle-brush-mount/), cut in half; $2.96 per 10pcs, enough for the whole build + extras |
-| M5 Heatset Insert 7mm D x 5mm L | 4 | | | | Covered by overall misc hardware estimate, see main README |
-| M3 Heatset Insert 5mm D x 4mm L | 2 | | | | Covered by overall misc hardware estimate, see main README |
-| 16mm M5 Button Head Cap Screw | 4 | | | | Covered by overall misc hardware estimate, see main README |
-| 10mm M5 Button Head Cap Screw | 1 | | | | Covered by overall misc hardware estimate, see main README |
-| 14mm M3 Button Head Cap Screw | 2 | | | | Covered by overall misc hardware estimate, see main README |
-| 8mm M3 Button Head Cap Screw | 2 | | | | Covered by overall misc hardware estimate, see main README |
+| Part | Qty | Unit Cost | Total Cost | Source | Alt Source | Note |
+|------|-----|-----------|------------|--------|------------|------|
+| Silicone Nozzle Brush (Bambu Lab A1 Mini size, cut in half) | 1 | $0.15 | $0.15 | [AliExpress](https://s.click.aliexpress.com/e/_c2wvhLBd) | [Amazon](https://amzn.to/4zvQkCc) | Same brush type as [Nozzle Brush Mount](../nozzle-brush-mount/), cut in half; $2.96 per 10pcs, enough for the whole build + extras |
+| M5 Heatset Insert 7mm D x 5mm L | 4 | | | | | Covered by overall misc hardware estimate, see main README |
+| M3 Heatset Insert 5mm D x 4mm L | 2 | | | | | Covered by overall misc hardware estimate, see main README |
+| 16mm M5 Button Head Cap Screw | 4 | | | | | Covered by overall misc hardware estimate, see main README |
+| 10mm M5 Button Head Cap Screw | 1 | | | | | Covered by overall misc hardware estimate, see main README |
+| 14mm M3 Button Head Cap Screw | 2 | | | | | Covered by overall misc hardware estimate, see main README |
+| 8mm M3 Button Head Cap Screw | 2 | | | | | Covered by overall misc hardware estimate, see main README |

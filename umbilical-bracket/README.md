@@ -32,12 +32,12 @@ Flat spring steel is used only at the start and end of each umbilical rather tha
 ### Full Umbilical Assembly
 *Per umbilical, 8 total (one per toolhead)*
 
-| Part | Qty | Unit Cost | Total Cost | Source | Note |
-|------|-----|-----------|------------|--------|------|
-| Umbilical bracket (assembled) | 8 | | | | See Bracket Hardware above |
-| CAN Bus Cable, 4mm diameter (~23.5 in / 600mm) | 1 | $4.00 | $4.00 | | Cut from a 6ft 100W shielded USB-C cable (2 CAN cables per 6ft USB-C cable); the exact cable I used is no longer sold. **Verify your replacement cable's rating meets your toolhead electronics' requirements** - alternatives include a 240W USB-C cable or a chainflex cable |
-| PTFE Guide Tube, 4mm OD x 3mm ID (~26 in / 660mm) | 1 | $1.27 | $1.27 | [AliExpress](https://s.click.aliexpress.com/e/_c3qePSft) | $1.93/meter |
-| GX12-4 Plug | 1 | | | [AliExpress](https://s.click.aliexpress.com/e/_c2vhMl6x) | Priced with the mating GX12-4 Jack, see [Umbilical Backplate](../umbilical-backplate/) BOM |
-| 2x2 Microfit Connector | 1 | | | | Comes with the EBB36 toolboard, not purchased separately |
-| Flat Coil Spring, 0.3mm x 3mm (70mm length) | 1 | $1.67 | $13.39 | [AliExpress](https://s.click.aliexpress.com/e/_c2xB7uAf) | Cut from a 0.3x3x34x1900mm roll ($13.39 total, ~$1.67/umbilical); one roll covers the whole build (8 umbilicals) |
-| Flat Coil Spring, 0.3mm x 3mm (100mm length) | 1 | | | [AliExpress](https://s.click.aliexpress.com/e/_c2xB7uAf) | Cut from the same roll, cost counted on the 70mm line |
+| Part | Qty | Unit Cost | Total Cost | Source | Alt Source | Note |
+|------|-----|-----------|------------|--------|------------|------|
+| Umbilical bracket (assembled) | 8 | | | | | See Bracket Hardware above |
+| CAN Bus Cable, 4mm diameter (~23.5 in / 600mm) | 1 | $4.00 | $4.00 | | | Cut from a 6ft 100W shielded USB-C cable (2 CAN cables per 6ft USB-C cable); the exact cable I used is no longer sold. **Verify your replacement cable's rating meets your toolhead electronics' requirements** - alternatives include a 240W USB-C cable or a chainflex cable |
+| PTFE Guide Tube, 4mm OD x 3mm ID (~26 in / 660mm) | 1 | $1.27 | $1.27 | [AliExpress](https://s.click.aliexpress.com/e/_c3qePSft) | [Amazon](https://amzn.to/4gMqQIz) | $1.93/meter |
+| GX12-4 Plug | 1 | | | [AliExpress](https://s.click.aliexpress.com/e/_c2vhMl6x) | [Amazon](https://amzn.to/4gaFnOZ) | Priced with the mating GX12-4 Jack, see [Umbilical Backplate](../umbilical-backplate/) BOM |
+| 2x2 Microfit Connector | 1 | | | [Amazon](https://amzn.to/4ifp2tK) | | Comes with the EBB36 toolboard, not purchased separately |
+| Flat Coil Spring, 0.3mm x 3mm (70mm length) | 1 | $1.67 | $13.39 | [Amazon](https://amzn.to/4wyCufH) | [AliExpress](https://s.click.aliexpress.com/e/_c2xB7uAf) | Cut from a 0.3x3x34x1900mm roll ($11.00 total, ~$1.67/umbilical); one roll covers the whole build (8 umbilicals) |
+| Flat Coil Spring, 0.3mm x 3mm (100mm length) | 1 | | | [Amazon](https://amzn.to/4wyCufH) | [AliExpress](https://s.click.aliexpress.com/e/_c2xB7uAf) | Cut from the same roll, cost counted on the 70mm line |
