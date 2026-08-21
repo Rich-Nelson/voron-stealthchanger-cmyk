@@ -8,7 +8,7 @@ Each tool head uses a Dragon Burner toolhead with a Sharkpa Mini Extruder and TZ
 
 This repo documents all of the custom and modified components.
 
-![Voron Stealthchanger CMYK](images/voron24-stealchanger-cmyk.png)
+![Voron Stealthchanger CMYK](images/voron24-stealchanger-cmyk-matched.png)
 
 ## Filaments used in this build
 
